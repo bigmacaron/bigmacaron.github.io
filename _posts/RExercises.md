@@ -10,6 +10,10 @@ categories: exercises
 
 
 
+
+
+# R 연습 및 재정리 
+
 ```
 install.packages("nycflights13")	
 library(nycflights13)
@@ -17,8 +21,7 @@ library(tidyverse)
 flights
 rm(list = ls()) 	#리스트 삭제
 ```
-
-# R 연습 및 재정리 
+입력하고 시작
 
 ## 1. filter()  사용법
 
