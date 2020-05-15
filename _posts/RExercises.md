@@ -4,15 +4,7 @@ date: 2020-05-15 08:26:28 -0400
 categories: exercises
 ---
 
-rm(list = ls())
-data("iris")
 
-str(iris)
-
-glimpse(iris)
-
-ggplot(data = iris , aes(x= Sepal.Length, y=Petal.Width)) +
-  geom_point()
 
 
 
