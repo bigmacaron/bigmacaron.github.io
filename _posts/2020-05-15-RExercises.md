@@ -124,5 +124,19 @@ filter(df, x > 1)
    - 자정과 오전 6시 사이에 출발 (포함)  
 
 ```
+a<-flights
 
+filter(a, arr_delay >= 120)
+
+filter(a, dest %in% c("IAH","HOU"))
+
+filter(a, carrier %in% c("UA","AA","DL")) 
+
+filter(a, month %in% c(7,8,9)) 
+
+filter(a, dep_delay <= 0 & arr_delay >= 120)  
+
+filter(a, arr_delay >= 60 & (arr_delay-air_time)> 30)
+
+filter(a, dep_time >= 2400 | dep_time <= 600)
 ```
