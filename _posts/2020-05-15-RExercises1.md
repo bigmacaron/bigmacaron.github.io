@@ -1,5 +1,5 @@
 ---
-title: "R exercises"
+title: "R exercises1"
 date: 2020-05-15 08:26:28 -0400
 categories: exercises
 ---
