@@ -63,9 +63,9 @@ array3 = np.concatenate([array1, array2])
 
 print(array3)
 
-#array3 의 출력 결과는 [1,2,3,4,5,6] 이 나옴  
+
 ````  
-1차원 배열에서는 하나의 배열로 합쳐짐
+array3 의 출력 결과는 ```[1,2,3,4,5,6]``` 이 나옴  
 
 
 ```reshape()``` 이용 하기  
