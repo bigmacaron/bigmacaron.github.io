@@ -5,7 +5,6 @@ categories:  Image processing
 ---
 
 ## numpy 정리
-## numpy 정리
 
 ### numpy array
 
