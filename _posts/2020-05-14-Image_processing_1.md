@@ -5,6 +5,7 @@ categories:  Image processing
 ---
 
 ## numpy 정리
+## numpy 정리
 
 ### numpy array
 
@@ -75,9 +76,9 @@ print(array2)
 ```
 출력 결과는 [[1 2 3] [4 5 6]] 이나옴  
 
-이를 응용하여  
-```
+이를 응용하여   
 
+```
 array1 = np.array([1,2,3])
 array2 = np.array([4,5,6])
 array3 = np.concatenate([array1, array2]) # [1,2,3,4,5,6] 으로 합침  
@@ -275,4 +276,28 @@ print(array1)
 array = np.array([1,1,2,2,3,3,3,3,4,4,5])
 print(np.unique(array))
 ```
+
 ```np.unique()```를 이용함
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
