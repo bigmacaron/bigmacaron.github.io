@@ -28,7 +28,7 @@ print(array[1])
 ```
 크기, 타입,인덱스 접근이 가능함   
 
-#### 배열을 쉽게 생성하고 ,특정값으로 채우기
+#### 배열을 쉽게 생성하고 ,특정값으로 채우기  
 
 ```
 array1 = np.arange(4) #0부터 3까지 숫자를 가진 array 생성
@@ -62,11 +62,11 @@ array2 = np.array([4,5,6])
 array3 = np.concatenate([array1, array2])
 
 print(array3)
-````
-array3 의 출력 결과는 [1,2,3,4,5,6] 이 나옴
+````  
+  
+array3 의 출력 결과는 [1,2,3,4,5,6] 이 나옴  
 
-```reshape()```
-
+```reshape()```  
 ```
 array1 = np.array([1,2,3,4,5,6])
 array2 = array1.reshape((2,3))
@@ -279,25 +279,4 @@ print(np.unique(array))
 
 ```np.unique()```를 이용함
 
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
