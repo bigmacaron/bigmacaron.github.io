@@ -228,7 +228,7 @@ print(array)
 위처럼 열을 기준으로 오름차순 정렬이 가능하다.
 
 #### 균일한 간격으로 데이터 생성
-```linspace()``
+```linspace()```
 
 ```
 array = np.linspace(0,10,5) 
