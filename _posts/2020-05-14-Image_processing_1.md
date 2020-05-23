@@ -66,7 +66,7 @@ print(array3)
   
 array3 의 출력 결과는 [1,2,3,4,5,6] 이 나옴  
 
-```reshape()```  
+```reshape()``` 이용 하기  
 ```
 array1 = np.array([1,2,3,4,5,6])
 array2 = array1.reshape((2,3))
