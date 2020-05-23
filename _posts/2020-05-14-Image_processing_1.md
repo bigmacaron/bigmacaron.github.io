@@ -7,7 +7,7 @@ categories:  Image processing
 ## numpy 정리
 
 ### numpy array
-
+---
 #### list 의 numpy 화
 ```
 list_data = [1,2,3]
@@ -77,7 +77,7 @@ print(array2)
 
 이를 응용하여   
 
----
+
 ```
 array1 = np.array([1,2,3])
 array2 = np.array([4,5,6])
