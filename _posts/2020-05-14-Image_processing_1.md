@@ -231,7 +231,7 @@ print(array)
 
 #### 균일한 간격으로 데이터 생성
 
-```linspace()```
+```linspace()``` 이용하기
 
 ```
 array = np.linspace(0,10,5) 
