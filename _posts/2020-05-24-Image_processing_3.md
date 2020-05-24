@@ -299,5 +299,5 @@ cv2.imshow("this is tile", img)
 cv2.waitKey(0)
 ```
 
-![cat_gray]('bigmacaron.github.io/img/cat_gray.jpg')  
-![cat_contour]('bigmacaron.github.io/img/cat_contour.jpg')  
+![cat_gray](./img/cat_gray.jpg)  
+![cat_contour](./img/cat_contour.jpg)  
