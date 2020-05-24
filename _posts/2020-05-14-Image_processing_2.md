@@ -17,7 +17,7 @@ cv2.imread('file_name' , flag)
 + IMREAD_GRAYSCALE : 이미지를 흑백으로 읽음   
 + IMREAD_UNCHANGED : 이미지를 그대로 읽어옴(투명한부분도 읽음)  
 
-openCv의 주의점은 RBG가 아니라 BGR로 읽어드림  
+openCv의 주의점은 RBG가 아니라 BGR로 
 
 #### 읽은뒤 열기
 ```
