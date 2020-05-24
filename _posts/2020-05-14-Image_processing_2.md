@@ -12,10 +12,10 @@ categories:  Image processing
 ```
 cv2.imread('file_name' , flag)
 ```
-+ flag 의 종류  
-- IMREAD_COLOR : 이미지를 컬러로 읽고, 투명한 부분은 무시함   
-- IMREAD_GRAYSCALE : 이미지를 흑백으로 읽음   
-- IMREAD_UNCHANGED : 이미지를 그대로 읽어옴(투명한부분도 읽음)  
+- flag 의 종류  
++ IMREAD_COLOR : 이미지를 컬러로 읽고, 투명한 부분은 무시함   
++ IMREAD_GRAYSCALE : 이미지를 흑백으로 읽음   
++ IMREAD_UNCHANGED : 이미지를 그대로 읽어옴(투명한부분도 읽음)  
 
 openCv의 주의점은 RBG가 아니라 BGR로 읽어드림  
 
