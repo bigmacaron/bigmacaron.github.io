@@ -10,7 +10,7 @@ categories:  Image processing
 #### 이미지 읽기
 
 ```
-cv2.imread('file_name' , flag)
+cv2.imread('file_name' , cv2.flag)
 ```
 - flag 의 종류  
 + IMREAD_COLOR : 이미지를 컬러로 읽고, 투명한 부분은 무시함   
