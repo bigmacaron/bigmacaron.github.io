@@ -36,7 +36,7 @@ cv2.imwrite('file_name', image)
 
 #### 창 유지시간
 ```
-c2.waitKey(time)
+cv2.waitKey(time)
 ```
 창을 열고 대기 할시간을 입력함 
 - time : 입력 대기 시간 (0은 무한 대기 )
