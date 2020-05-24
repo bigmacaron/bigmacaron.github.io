@@ -283,3 +283,4 @@ print(np.unique(array))
 ```np.unique()```를 이용함
 
  
+올바르게 
