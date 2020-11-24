@@ -14,18 +14,20 @@ categories:  Image processing
 
 ted님이 만든 라이브러리 사용예:  
   
-``` AndroidManifest ```  
-&nbsp;  
+``` AndroidManifest ``` 에 작성
+
 ```
 <uses-permission android:name="android.permission.CAMERA"/>
 <uses-permission android:name="android.permission.RECORD_AUDIO" />
 ```
-```build.gradle(app)```
+
+```build.gradle(app)``` 에 작성
+
 ```
 implementation 'gun0912.ted:tedpermission:2.2.2'
 ```
 
-```MainActivity```
+```MainActivity``` 에 작성
 ```
 import com.gun0912.tedpermission.PermissionListener
 import com.gun0912.tedpermission.TedPermission
@@ -74,7 +76,7 @@ class MainActivity : AppCompatActivity() {
 }
 ```
 버튼클릭시 권한 허용 질문  
-``` activity_main```
+``` activity_main```에 작성
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
