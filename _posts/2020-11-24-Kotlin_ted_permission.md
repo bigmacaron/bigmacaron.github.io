@@ -14,8 +14,6 @@ categories:  Image processing
 
 ted님이 만든 라이브러리 사용예:  
   
-&nbsp;  
-  
 ```AndroidManifest```
 ```
 <uses-permission android:name="android.permission.CAMERA"/>
