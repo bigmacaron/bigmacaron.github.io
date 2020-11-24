@@ -9,13 +9,13 @@ categories:  Image processing
 &nbsp;
 
 
-## ted_permission
+## ted_permission  
 &nbsp;
 
 ted님이 만든 라이브러리 사용예:  
   
-```AndroidManifest```  
-&nbsp;
+``` AndroidManifest ```  
+&nbsp;  
 ```
 <uses-permission android:name="android.permission.CAMERA"/>
 <uses-permission android:name="android.permission.RECORD_AUDIO" />
